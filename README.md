@@ -127,5 +127,5 @@ Bu sonuçlar, modelin gerçek hayatta karar destek sistemi olarak kullanılabili
 🔗 Proje Kaynakları
 
 📎 Kaggle Notebook Linki:https://www.kaggle.com/code/mustafaerdogan0001/akbank-brain-tumor-project/edit
-
+  Kullanılan Dataset:https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 📎 
